@@ -113,10 +113,6 @@ bpy.ops.export_scene.fbx(
 	filepath="", 
 	check_existing=True,
 	filter_glob="*.fbx",
-	use_selection=False,
-	use_active_collection=False,
-	global_scale=1,
-	apply_unit_scale=True,
 Write a FBX file
 """
 
